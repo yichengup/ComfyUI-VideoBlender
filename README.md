@@ -22,6 +22,11 @@ git clone https://github.com/yourusername/ComfyUI-VideoBlender.git
 cd ComfyUI-VideoBlender
 pip install -r requirements.txt
 ```
+![image](https://github.com/user-attachments/assets/a0a328de-a7d0-4c28-a1e1-813479ab99ae)
+
+
+https://github.com/user-attachments/assets/b21f4026-8304-4380-8a72-0d4a1c8b193b
+
 
 ## 使用方法
 
