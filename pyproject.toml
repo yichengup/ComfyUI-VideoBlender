@@ -1,0 +1,15 @@
+[project]
+name = "videoblender"
+description = "Video clip mixing"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["opencv-python>=4.8.0", "numpy>=1.24.0", "torch>=2.0.0", "pillow", "moviepy>=1.0.3"]
+
+[project.urls]
+Repository = "https://github.com/yichengup/ComfyUI-VideoBlender"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-VideoBlender"
+Icon = ""
