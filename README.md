@@ -84,7 +84,8 @@ https://github.com/user-attachments/assets/28ae478f-4f2c-4da6-bed4-a52df2ac42bb
    - 建议使用MP4、MOV格式
 
 ## 更新日志
-
+### v1.1.0 （2025/02/18）
+- 增加高级多图层节点
 ### v1.0.0
 - 初始版本发布
 - 实现基本的视频混合功能
