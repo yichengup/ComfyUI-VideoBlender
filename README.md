@@ -27,6 +27,12 @@ pip install -r requirements.txt
 
 https://github.com/user-attachments/assets/b21f4026-8304-4380-8a72-0d4a1c8b193b
 
+![3e8344fe06a019b730a41197beef93a](https://github.com/user-attachments/assets/9011da9c-3823-43a7-8c85-f2cbabcb4ecf)
+
+
+https://github.com/user-attachments/assets/28ae478f-4f2c-4da6-bed4-a52df2ac42bb
+
+
 
 ## 使用方法
 
