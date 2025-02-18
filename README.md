@@ -15,7 +15,7 @@
 2. 克隆本仓库到ComfyUI的custom_nodes目录：
 ```bash
 cd custom_nodes
-git clone https://github.com/yourusername/ComfyUI-VideoBlender.git
+git clone https://github.com/yichengup/ComfyUI-VideoBlender.git
 ```
 3. 安装依赖：
 ```bash
